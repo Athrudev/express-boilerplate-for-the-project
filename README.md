@@ -1,13 +1,15 @@
-# GitHub Codespaces ♥️ Express
+# Express Boilerplate Usage
 
-Welcome to your shiny new Codespace running Express! We've got everything fired up and running for you to explore Express.
+This repository is a fork of https://github.com/github/codespaces-express. I am using it as a boilerplate for my Express.js projects.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+## Purpose
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+The sole purpose of this fork is to serve as a starting point for my Express-based applications. It provides a basic setup that I can quickly clone and build upon for various projects.
 
-To run this application:
+## Acknowledgment
 
-```
-npm start
-```
+All credit for the original boilerplate goes to the creators and contributors of the original repository.
+
+## Note to Visitors
+
+If you've stumbled upon this repository, please note that it's not intended for general use. For the most up-to-date and maintained version of this boilerplate, please refer to the original repository linked above.
